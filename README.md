@@ -1,2 +1,2 @@
-# AI-Project01
- A repository contains all project files, including the revision history. Already have a project repository elsewhere?
+# My First AI Project -Adil OSma
+I have been in India from 28/01/2023 unitl 10/03/2023
